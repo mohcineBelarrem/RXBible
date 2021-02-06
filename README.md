@@ -15,7 +15,7 @@ Observers are the things watching (you can call it a subscriber too.)
 
 
 ```Swift
- let array = Observable.from([1,2,3,4,5,6])
+        let array = Observable.from([1,2,3,4,5,6])
         
         let subscription = array.subscribe { number in
             print(number)
