@@ -56,5 +56,10 @@ Observer vs Subject
 # Power of RX
 ![](images/rxPower.png)
 ![](images/rxPower2.png)
-##Operators
+Operators
 ![](images/rxPower3.png)
+
+#A quick example : 
+![](images/ennonce.png)
+![](images/corrige.png)
+
