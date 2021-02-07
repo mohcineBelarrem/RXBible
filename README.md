@@ -28,3 +28,7 @@ Observers are the things watching (you can call it a subscriber too.)
         }
  ```
  Array is the Observerable subscription is the observer
+
+ An Observable are values linked on a timeline - a Stream of variables.
+ ![](images/stream.png "Relationship")
+
