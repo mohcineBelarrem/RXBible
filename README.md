@@ -32,3 +32,8 @@ Observers are the things watching (you can call it a subscriber too.)
  An Observable are values linked on a timeline - a Stream of variables.
  ![Relationship](images/stream.png "Relationship")
 
+# Observable LifeCycle - Everything is a stream of singular Values
+ ![LifeCycle](images/lifecycle.png "LifeCycle")
+
+ Remember 👨🏽‍🏫 everything is a stream 
+ ![](images/stream2.png)
