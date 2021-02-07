@@ -39,4 +39,11 @@ Observers are the things watching (you can call it a subscriber too.)
  ![](images/stream2.png)
 
 You listen to a stream of values by subscribing to it, simple as that.
-  ![](images/listen.png)
+![](images/listen.png)
+
+We use disposal to manage memory, the VC owns the bags which means it owns all the subscriptions it needs.
+![](images/disposal.png)
+
+# Let's talk about this Subject :p
+There are 4 types of subjects, the last on is not used a lot
+![](images/subjectsTypes.png)
