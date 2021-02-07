@@ -59,7 +59,7 @@ Observer vs Subject
 Operators
 ![](images/rxPower3.png)
 
-#A quick example : 
+# A quick example : 
 ![](images/ennonce.png)
 solution
 ![](images/corrige.png)
@@ -67,7 +67,7 @@ solution
 The things in red are called operators
 ![](images/operators.png)
 
-#RXCocoa : 
+# RXCocoa : 
 
 RxSwift is the language agnostic compenent of RX applied to Swift which means it would look almost the same as RXJava,and other languages...
 On the Other Hand we have Apple native SDKs iOS, macOS...
