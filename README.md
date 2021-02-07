@@ -53,3 +53,8 @@ This is their behavior:
 Observer vs Subject
 ![](images/obersverSubject.png)
 
+# Power of RX
+![](images/rxPower.png)
+![](images/rxPower2.png)
+##Operators
+![](images/rxPower3.png)
