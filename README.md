@@ -27,6 +27,8 @@ Observers are the things watching (you can call it a subscriber too.)
             print("disposed")
         }
  ```
+# Observable Types :
+![](images/obs.png)
  Array is the Observerable subscription is the observer
 
  An Observable are values linked on a timeline - a Stream of variables.
@@ -43,6 +45,9 @@ You listen to a stream of values by subscribing to it, simple as that.
 
 We use disposal to manage memory, the VC owns the bags which means it owns all the subscriptions it needs.
 ![](images/disposal.png)
+
+# Var is bullshit :
+![](images/vars.png)
 
 # Let's talk about this Subject :p
 Subject = Observable + Observer
@@ -84,5 +89,5 @@ This is how we would do it
 ![](images/cocoae2.png)
 There's a better way to do it is throught the bind - we bind the boolean state of the textfield to the boolean enabled
 ![](images/cocoae3.png)
-We can shortcircuit all the elements and directly link the texfield to the label.
+We can shortcircuit all the elements and directly link the texfield to the label. 
 ![](images/cocoae4.png)
