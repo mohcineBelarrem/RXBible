@@ -49,7 +49,7 @@ Subject = Observable + Observer
 There are 4 types of subjects, the last on is not used a lot
 ![](images/subjectsTypes.png)
 This is their behavior:
-![](images/subjectsTypesBehabvior.png)
+![](images/subjectsTypesBehavior.png)
 Observer vs Subject
 ![](images/obersverSubject.png)
 
