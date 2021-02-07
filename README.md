@@ -6,7 +6,7 @@ Observables simply put is a list of values we can itterate over, List of things 
 Observers are the things watching (you can call it a subscriber too.)
 
 
-# Observable Categories
+# Observable Categories :
 
  1. Unbounded list of events taps, clicks..
  2. Single Variable that notifies of changes over time
@@ -32,7 +32,7 @@ Observers are the things watching (you can call it a subscriber too.)
  An Observable are values linked on a timeline - a Stream of variables.
  ![Relationship](images/stream.png "Relationship")
 
-# Observable LifeCycle - Everything is a stream of singular Values
+# Observable LifeCycle - Everything is a stream of singular Values :
  ![LifeCycle](images/Lifecycle.png "LifeCycle")
 
  Remember 👨🏽‍🏫 everything is a stream.
@@ -53,7 +53,7 @@ This is their behavior:
 Observer vs Subject
 ![](images/obersverSubject.png)
 
-# Power of RX
+# Power of RX :
 ![](images/rxPower.png)
 ![](images/rxPower2.png)
 Operators
@@ -73,4 +73,16 @@ RxSwift is the language agnostic compenent of RX applied to Swift which means it
 On the Other Hand we have Apple native SDKs iOS, macOS...
 RxCocoa how the bridge binathoum
 ![](images/rxCocoa.png)
+![](images/rxCocoa2.png)
+a bit of syntax 
+![](images/rxCocoa3.png)
 
+# RXCocoa Example : 
+Imagine we want to link a button press to a label and to show the content in the textfield.
+![](images/cocoae.png)
+This is how we would do it
+![](images/cocoae2.png)
+There's a better way to do it is throught the bind - we bind the boolean state of the textfield to the boolean enabled
+![](images/cocoae3.png)
+We can shortcircuit all the elements and directly link the texfield to the label.
+![](images/cocoae4.png)
