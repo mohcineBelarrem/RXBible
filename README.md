@@ -37,3 +37,6 @@ Observers are the things watching (you can call it a subscriber too.)
 
  Remember 👨🏽‍🏫 everything is a stream.
  ![](images/stream2.png)
+
+You listen to a stream of values by subscribing to it, simple as that.
+  ![](images/listen.png)
