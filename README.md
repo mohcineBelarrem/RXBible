@@ -35,5 +35,5 @@ Observers are the things watching (you can call it a subscriber too.)
 # Observable LifeCycle - Everything is a stream of singular Values
  ![LifeCycle](images/Lifecycle.png "LifeCycle")
 
- Remember 👨🏽‍🏫 everything is a stream 
+ Remember 👨🏽‍🏫 everything is a stream.
  ![](images/stream2.png)
