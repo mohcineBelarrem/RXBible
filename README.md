@@ -45,5 +45,11 @@ We use disposal to manage memory, the VC owns the bags which means it owns all t
 ![](images/disposal.png)
 
 # Let's talk about this Subject :p
+Subject = Observable + Observer
 There are 4 types of subjects, the last on is not used a lot
 ![](images/subjectsTypes.png)
+This is their behavior:
+![](images/subjectsTypesBehabvior.png)
+Observer vs Subject
+![](images/obersverSubject.png)
+
